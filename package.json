@@ -15,7 +15,6 @@
     "mongodb": "^3.5.9",
     "mongoose": "4.2.4",
     "lodash": "4.17.4",
-    "extend": "3.0.0",
-    "fsevents": "1.2.10"
+    "extend": "3.0.0"
   }
 }
